@@ -1,0 +1,49 @@
+.about-me {
+  display: flex;
+  flex-direction: row-reverse;
+  padding: 90px 0 80px 0;
+  align-items: center;
+  justify-content: center;
+}
+.profile-info {
+  text-align: center;
+  color: white;
+}
+.profile-image-div{
+  text-align: center;
+  padding: 20px;
+}
+.profile-image {
+  height: 250px;
+  margin: 20px;
+}
+.profile-description {
+  max-width: 450px;
+  padding: 0px 30px;
+}
+.profile-contact {
+  height: 25px;
+  text-align: center;
+  padding: 3px 10px;
+  cursor: pointer;
+  transition: .14s ease-in-out all;
+}
+.profile-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+}
+.strong {
+  color: var(--fifth-color);
+  font-size: 1.3em;
+  padding: 0px 0px 0px 4px;
+  transition: .3s ease-in-out all;
+}
+.profile-contact:hover {
+  background-color: white;
+  border-radius: 4px;
+}
+.strong:hover {
+  text-shadow: 0px 0px 2px var(--fifth-color);
+}

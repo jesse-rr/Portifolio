@@ -1,0 +1,108 @@
+.tools {
+  position: relative;
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0;
+  transition-duration: 0.2s;
+  transition-property: all;
+  transition-timing-function: ease-in-out;
+  border-radius: 5px;
+}
+.tools-div {
+  margin: 30px 0 50px 0;
+}
+.tool-image {
+  height: 60px;
+  width: 60px;
+  background-size: 60px;
+  background-position: center;
+  transition-duration: 0.2s;
+  transition-property: all;
+  transition-timing-function: ease-in-out;
+  cursor: pointer;
+}
+.tool-title {
+  color: white;
+  font-family: var(--title-font);
+  text-align: center;
+  margin: 0;
+  padding: 10px 0;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition-duration: 0.2s;
+  transition-property: all;
+  transition-timing-function: ease-in-out;
+  cursor: pointer;
+}
+.tools-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 0 20px;
+}
+
+.java {
+  transform: scale(1.1);
+  background-image: url('/stock/tools/white/icons8-logo-java-coffee-cup.svg');
+}
+.spring {
+  background-image: url('/stock/tools/white/spring-svgrepo-com.svg');
+}
+.postgres {
+  background-image: url('/stock/tools/white/icons8-postgres.svg');
+}
+.mongodb {
+  background-image: url('/stock/tools/white/icons8-mongodb.svg');
+  background-size: 70px;
+}
+.kafka {
+  background-image: url('/stock/tools/white/icons8-apache-kafka.svg');
+}
+.css {
+  background-image: url('/stock/tools/white/icons8-css.svg');
+  background-size: 70px;
+}
+.html {
+  background-image: url('/stock/tools/white/icons8-html.svg');
+}
+.docker {
+  background-image: url('/stock/tools/white/docker-svgrepo-com.svg');
+}
+
+.tools:hover {
+  border: 1px solid var(--fifth-color);
+  transform: scale(1.1);
+  box-shadow: 0 0 6px 0 var(--fifth-color);
+  background-color: rgb(11, 11, 11);
+}
+.tools:hover .tool-title{
+  color: var(--fifth-color);
+}
+.tools:hover .java{
+  background-image: url('/stock/tools/orange/icons8-logo-java-coffee-cup.svg');
+}
+.tools:hover .spring{
+  background-image: url('/stock/tools/orange/spring-svgrepo-com.svg');
+}
+.tools:hover .postgres{
+  background-image: url('/stock/tools/orange/icons8-postgres.svg');
+}
+.tools:hover .mongodb{
+  background-image: url('/stock/tools/orange/icons8-mongodb.svg');
+}
+.tools:hover .kafka{
+  background-image: url('/stock/tools/orange/icons8-apache-kafka.svg');
+}
+.tools:hover .css{
+  background-image: url('/stock/tools/orange/icons8-css.svg');
+}
+.tools:hover .html{
+  background-image: url('/stock/tools/orange/icons8-html.svg');
+}
+.tools:hover .docker{
+  background-image: url('/stock/tools/orange/docker-svgrepo-com\ \(1\).svg');
+}

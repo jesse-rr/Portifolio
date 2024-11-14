@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=League+Spartan:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=League+Spartan:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('normalize.css');
+@import url('header.css');
+@import url('footer.css');
+@import url('profile.css');
+@import url('project.css');
+@import url('tool.css');
+@import url('professional.css');
+@import url('curriculo.css');
+@import url('dropdown.css');
+
+:root {
+  --title-font: "League Spartan", sans-serif;
+  --other-font: "Montserrat", sans-serif;
+  --first-color: #20201e;
+  --secondary-color: #0b0b0b;
+  --third-color: #191917;
+  --forth-color: #efd6ac;
+  --fifth-color: #da5102;
+}
+body {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  background-color: var(--third-color);
+  background-color: #000000;
+  background-image: url(/stock/texture/cartographer.png);
+  font-family: var(--other-font);
+}
+.main {
+  background-color: var(--third-color);
+  min-height: 826px;
+  padding: 5% 0;
+  margin: 0 8%;
+}
+html {
+  scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+@media (max-width: 767px) {
+  body {
+    margin: 0;
+  }
+  .main {
+    margin: 40px 0 0 0;
+  }
+  .about-me {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+  }
+  .professional-div {
+    scale: 0.9;
+    text-align: center;
+    justify-content: center;
+  }
+  .tools-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    scale: 0.9;
+    justify-items: center;
+  }
+  .project {
+    max-width: auto;
+  }
+  .project-image {
+    display: none;
+  }
+  .project-title {
+    font-size: 1.5em;
+  }
+  .project-text {
+    font-size: 15px;
+    margin: 0 0 10px 0;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  body {
+    margin: 0;
+  }
+  .main {
+    margin: 0 4%;
+  }
+  .professional-div {
+    scale: 0.9;
+    text-align: center;
+    justify-content: center;
+  }
+  .tools-list {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    justify-items: center;
+  }
+  .project {
+    max-width: 680px;
+    align-items: center;
+  }
+  .project-image *{
+    width: 200px;
+  }
+}

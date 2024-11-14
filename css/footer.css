@@ -1,0 +1,14 @@
+.footer {
+  background-color: var(--secondary-color);
+  max-height: 40px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 15px;
+  font-weight: lighter;
+  font-size: 0.8em;
+}
+.footer-text a{
+  color: white;
+  text-decoration: none;
+}

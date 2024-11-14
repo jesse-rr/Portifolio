@@ -1,0 +1,43 @@
+.professional-div {
+  list-style-type: none;
+  color: white;
+}
+.professional-div-title {
+  text-align: center;
+  font-size: 1.6em;
+  font-family: var(--title-font);
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 10px 0 0 0;
+}
+.professional-list {
+  display: flex;
+  list-style-type: none;
+  flex-direction: column;
+  align-items: center;
+  padding: 0;
+  margin: 10px 0;
+}
+.professional-work {
+  padding: 0 0 15px 20px;
+  border-left: 1px solid white;
+  transition: .3s ease-in-out all;
+  cursor: pointer;
+}
+.professional-work * {
+  margin: 0;
+}
+.professional-title {
+  font-family: var(--title-font);
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.title-a{
+  text-decoration: none;
+  color: white;
+}
+.professional-work:hover {
+  border-left: 1px solid var(--fifth-color);
+  color: var(--fifth-color);
+}
