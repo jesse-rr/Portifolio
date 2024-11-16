@@ -3,8 +3,8 @@
 Este projeto apresenta um portfólio construído com HTML5 e CSS3, explorando conceitos fundamentais como semântica, responsividade e estilização avançada.
 
 ---
-
 ### HTML5
+##### ***!!!IMAGENS N DEMONSTRAM TODOS OS VALORES UTILIZADOS, APENAS UM GENERAL!!!***
 
 #### Conceitos Utilizados/N Utilizados:
 - **Estrutura Básica**: inclui `<!DOCTYPE html>`, `<html>`, `<head>` e `<body>`, etc...
