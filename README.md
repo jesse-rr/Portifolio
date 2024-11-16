@@ -5,6 +5,7 @@ Este projeto apresenta um portfólio construído com HTML5 e CSS3, explorando co
 ---
 
 ### HTML5
+___imagens não demonstram tudo presente no codigo___
 
 #### Conceitos Utilizados/N Utilizados:
 - **Estrutura Básica**: inclui `<!DOCTYPE html>`, `<html>`, `<head>` e `<body>`, etc...
@@ -26,7 +27,7 @@ Este projeto apresenta um portfólio construído com HTML5 e CSS3, explorando co
   - Links ✓
   - Imagens ✓
   - Mídia incorporada x
-  - Elementos de formulário x <br>
+  - Elementos de formulário ✓ <br>
 ![table](https://github.com/user-attachments/assets/0fd459ba-6b26-461b-a0ce-973f21cbce3f)
 ---
 
@@ -34,7 +35,7 @@ Este projeto apresenta um portfólio construído com HTML5 e CSS3, explorando co
 
 #### Conceitos Utilizados/N Utilizados:
 - **Aplicação do CSS ao HTML**
-  - Modelo de caixa x
+  - Modelo de caixa ✓
   - Dimensionamento ✓
   - Preenchimento ✓
   - Bordas ✓
