@@ -6,9 +6,7 @@
   align-items: center;
   justify-content: center;
   padding: 10px 0;
-  transition-duration: 0.2s;
-  transition-property: all;
-  transition-timing-function: ease-in-out;
+  transition: .2s ease-in-out all;
   border-radius: 5px;
 }
 .tools-div {
@@ -19,9 +17,7 @@
   width: 60px;
   background-size: 60px;
   background-position: center;
-  transition-duration: 0.2s;
-  transition-property: all;
-  transition-timing-function: ease-in-out;
+  transition: .2s ease-in-out all;
   cursor: pointer;
 }
 .tool-title {
@@ -32,9 +28,7 @@
   padding: 10px 0;
   font-weight: bold;
   text-transform: uppercase;
-  transition-duration: 0.2s;
-  transition-property: all;
-  transition-timing-function: ease-in-out;
+  transition: .2s ease-in-out all;
   cursor: pointer;
 }
 .tools-list {
@@ -72,6 +66,10 @@
 .docker {
   background-image: url('/stock/tools/white/docker-svgrepo-com.svg');
 }
+.git {
+  background-image: url('/stock/tools/white/icons8-git\ \(1\).svg');
+}
+
 
 .tools:hover {
   border: 1px solid var(--fifth-color);
@@ -105,4 +103,7 @@
 }
 .tools:hover .docker{
   background-image: url('/stock/tools/orange/docker-svgrepo-com\ \(1\).svg');
+}
+.tools:hover .git{
+  background-image: url('/stock/tools/orange/icons8-git.svg');
 }

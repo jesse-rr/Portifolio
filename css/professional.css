@@ -1,4 +1,4 @@
-.professional-div {
+.professional-div *{
   list-style-type: none;
   color: white;
 }
@@ -35,7 +35,6 @@
 }
 .title-a{
   text-decoration: none;
-  color: white;
 }
 .professional-work:hover {
   border-left: 1px solid var(--fifth-color);

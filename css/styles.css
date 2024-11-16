@@ -52,6 +52,9 @@ html {
     flex-direction: column;
     padding: 0;
   }
+  .profile-container {
+    display: none;
+  }
   .professional-div {
     scale: 0.9;
     text-align: center;
@@ -66,9 +69,6 @@ html {
   .project {
     max-width: auto;
   }
-  .project-image {
-    display: none;
-  }
   .project-title {
     font-size: 1.5em;
   }
@@ -76,14 +76,20 @@ html {
     font-size: 15px;
     margin: 0 0 10px 0;
   }
+  .project-image {
+    display: none;
+  }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and (min-width: 767.1px) and (max-width: 1024px) {
   body {
     margin: 0;
   }
   .main {
     margin: 0 4%;
+  }
+  .profile-container {
+    display: none;
   }
   .professional-div {
     scale: 0.9;

@@ -1,4 +1,4 @@
-.project-section {
+.project-div {
   display: grid;
   flex-direction: column;
   justify-content: center;
@@ -16,6 +16,7 @@
   flex-direction: row;
   justify-content: space-between;
   text-align: right;
+  align-items: center;
   transition: .25s ease-in-out all;
 }
 .project--even {
@@ -36,6 +37,25 @@
   overflow: hidden;
   margin: 20px 10px 0px 40px;
 }
+.project-image *{
+  width: 300px;
+}
+.project-image-resize {
+  scale: 0.9;
+}
+.project-ul {
+  list-style-type: none;
+  padding: 0;
+}
+.project-github {
+  height: 25px;
+  background-color: white;
+  padding: 1px;
+  border-radius: 100px;
+  margin: 0 10px;
+  cursor: pointer;
+}
+
 .project-text--even {
   margin: 20px 40px 0px 10px;
 }
