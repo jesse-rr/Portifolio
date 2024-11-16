@@ -21,7 +21,7 @@ ___[ imagens não demonstram tudo presente no codigo ]___
   - Elementos de texto ✓ <br> <br>
 ![estrutura2](https://github.com/user-attachments/assets/6962e794-eb72-4a40-9907-e09a26363709)
 ---
-- **Validar**: inclui `<html lang="pt">`, `<alt="Brasil Flag">`, etc... ✓
+- **Validator**: inclui `<html lang="pt">`, `<alt="Brasil Flag">`, etc... ✓
 - *Localizado:* index.html | index-english.html <br> <br>
 ![validation](https://github.com/user-attachments/assets/3e9a9013-0c7f-4289-aa6d-6da6996faf11)
 ---
