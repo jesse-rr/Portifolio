@@ -16,7 +16,8 @@ Este projeto apresenta um portfólio construído com HTML5 e CSS3, explorando co
   - Elementos de conteúdo ✓
   - Elementos de texto ✓ <br>
 ![estrutura2](https://github.com/user-attachments/assets/6962e794-eb72-4a40-9907-e09a26363709)
-- **Validar**: inclui `<html lang="pt">`, `<alt="Brasil Flag">`, etc... [ver estrutura basica] ✓
+- **Validar**: inclui `<html lang="pt">`, `<alt="Brasil Flag">`, etc... ✓ <br>
+  - ![validation](https://github.com/user-attachments/assets/3e9a9013-0c7f-4289-aa6d-6da6996faf11)
 - **Elementos HTML**: inclui `<table>`, `<thead>`, `<div>`, `<td>`, `&equiv`, `id & class`, `<a>`, `<img>`, etc... <br>
   - Tabelas ✓
   - Elementos genéricos ✓
