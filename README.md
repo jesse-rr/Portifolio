@@ -3,22 +3,22 @@
 Este projeto apresenta um portfólio construído com HTML5 e CSS3, explorando conceitos fundamentais como semântica, responsividade e estilização avançada.
 
 ---
+
 ### HTML5
-##### ***!!!IMAGENS N DEMONSTRAM TODOS OS VALORES UTILIZADOS, APENAS UM GENERAL!!!***
 
 #### Conceitos Utilizados/N Utilizados:
-- **Estrutura Básica**: inclui <!DOCTYPE html>, <html>, <head> e <body>, etc...
+- **Estrutura Básica**: inclui `<!DOCTYPE html>`, `<html>`, `<head>` e `<body>`, etc...
   - Elementos ✓
   - Estrutura ✓ <br>
 ![estrutura](https://github.com/user-attachments/assets/9f72f025-c7dd-486e-85b9-96da25d71f2a)
-- **Semântica no HTML**: inclui <header>, <main>, <footer>, <ul>, <li>, <p>, <h1> etc...
+- **Semântica no HTML**: inclui `<header>`, `<main>`, `<footer>`, `<ul>`, `<li>`, `<p>`, `<h1>` etc...
   - Elementos estruturais ✓
   - Elementos de conteúdo ✓
   - Elementos de texto ✓ <br>
 ![estrutura2](https://github.com/user-attachments/assets/6962e794-eb72-4a40-9907-e09a26363709)
-- **Validar**: inclui <html lang="pt">, <alt="Brasil Flag">, etc... ✓ <br>
+- **Validar**: inclui `<html lang="pt">`, `<alt="Brasil Flag">`, etc... ✓ <br>
 ![validation](https://github.com/user-attachments/assets/3e9a9013-0c7f-4289-aa6d-6da6996faf11)
-- **Elementos HTML**: inclui <table>, <thead>, <div>, <td>, &equiv, id & class, <a>, <img>, etc... <br>
+- **Elementos HTML**: inclui `<table>`, `<thead>`, `<div>`, `<td>`, `&equiv`, `id & class`, `<a>`, `<img>`, etc... <br>
   - Tabelas ✓
   - Elementos genéricos ✓
   - Atributos de identificação ✓
