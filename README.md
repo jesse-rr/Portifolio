@@ -9,12 +9,12 @@ ___[imagens não demonstram tudo presente no codigo]___
 
 #### Conceitos Utilizados/N Utilizados:
 - **Estrutura Básica**: inclui `<!DOCTYPE html>`, `<html>`, `<head>` e `<body>`, etc...
-*Localizado:* index.html | index-english.html | matriz.html
+- *Localizado:* index.html | index-english.html | matriz.html
   - Elementos ✓
   - Estrutura ✓ <br>
 ![estrutura](https://github.com/user-attachments/assets/9f72f025-c7dd-486e-85b9-96da25d71f2a)
 - **Semântica no HTML**: inclui `<header>`, `<main>`, `<footer>`, `<ul>`, `<li>`, `<p>`, `<h1>` etc...
-*Localizado:* index.html | index-english.html | matriz.html [tabelas]
+- *Localizado:* index.html | index-english.html | matriz.html [tabelas]
   - Elementos estruturais ✓
   - Elementos de conteúdo ✓
   - Elementos de texto ✓ <br>
@@ -22,7 +22,7 @@ ___[imagens não demonstram tudo presente no codigo]___
 - **Validar**: inclui `<html lang="pt">`, `<alt="Brasil Flag">`, etc... ✓ <br>
 ![validation](https://github.com/user-attachments/assets/3e9a9013-0c7f-4289-aa6d-6da6996faf11)
 - **Elementos HTML**: inclui `<table>`, `<thead>`, `<div>`, `<td>`, `&equiv`, `id & class`, `<a>`, `<img>`, etc... <br>
-*Localizado:* index.html | index-english.html | matriz.html [tabelas]
+- *Localizado:* index.html | index-english.html | matriz.html [tabelas]
   - Tabelas ✓
   - Elementos genéricos ✓
   - Atributos de identificação ✓
