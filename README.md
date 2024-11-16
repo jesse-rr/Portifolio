@@ -1,6 +1,6 @@
 # Portfólio HTML5 e CSS3
 
-Este projeto apresenta um portfólio construído com HTML5 e CSS3, explorando conceitos fundamentais como semântica, responsividade e estilização avançada. Cada seção está organizada para aprendizado prático e modular.
+Este projeto apresenta um portfólio construído com HTML5 e CSS3, explorando conceitos fundamentais como semântica, responsividade e estilização avançada.
 
 ---
 
