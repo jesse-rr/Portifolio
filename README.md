@@ -4,11 +4,9 @@ Este projeto apresenta um portfólio construído com HTML5 e CSS3, explorando co
 
 ---
 
-## Tópicos de Estudo
-
 ### HTML5
 
-#### Conceitos:
+#### Conceitos Utilizados/N Utilizados:
 - **Estrutura Básica**: inclui `<!DOCTYPE html>`, `<html>`, `<head>` e `<body>`.
   - Elementos ✓
   - Estrutura ✓ <br>
@@ -30,3 +28,31 @@ Este projeto apresenta um portfólio construído com HTML5 e CSS3, explorando co
   - Elementos de formulário x <br>
 ![table](https://github.com/user-attachments/assets/0fd459ba-6b26-461b-a0ce-973f21cbce3f)
 ---
+
+### CSS3
+
+#### Conceitos Utilizados/N Utilizados:
+- **Aplicação do CSS ao HTML**
+  - Modelo de caixa x
+  - Dimensionamento ✓
+  - Preenchimento ✓
+  - Bordas ✓
+  - Margens ✓
+  - Display ✓
+  - Cores ✓ <br>
+- **Posicionando elementos com CSS**
+  - Float ✓
+  - Flexbox x <br>
+- **Posicionando elementos do CSS3 (parte 2)**
+  - Position ✓
+  - Grid ✓ <br>
+- **Responsividade com CSS**
+  - Media queries  ✓
+  - Breakpoints ✓ <br>
+  - Projetando responsivamente ✓
+- **Avançando no CSS**
+  - Transições ✓
+  - Transformações ✓ <br>
+  - Propriedades personalizadas ✓
+  - Limpeza de estilos ✓
+  - Importação de fontes externas ✓ <br>
