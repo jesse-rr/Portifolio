@@ -13,6 +13,7 @@ ___[ imagens não demonstram tudo presente no codigo ]___
   - Elementos ✓
   - Estrutura ✓ <br> <br>
 ![estrutura](https://github.com/user-attachments/assets/9f72f025-c7dd-486e-85b9-96da25d71f2a)
+--
 - **Semântica no HTML**: inclui `<header>`, `<main>`, `<footer>`, `<ul>`, `<li>`, `<p>`, `<h1>` etc...
 - *Localizado:* index.html | index-english.html
   - Elementos estruturais ✓
