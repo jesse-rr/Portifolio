@@ -37,6 +37,8 @@ ___[ imagens não demonstram tudo presente no codigo ]___
   - Elementos de formulário ✓ <br> <br>
 ![table](https://github.com/user-attachments/assets/0fd459ba-6b26-461b-a0ce-973f21cbce3f)
 ---
+---
+---
 
 ### CSS3
 
