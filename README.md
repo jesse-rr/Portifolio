@@ -33,7 +33,7 @@ ___[imagens não demonstram tudo presente no codigo]___
 
 ### CSS3
 
-#### Conceitos Utilizados/N Utilizados: ___em geral, todos os .css files contem pelo menos 2/3 desses.___
+#### Conceitos Utilizados/N Utilizados: ___em geral, todos os .css files contem pelo menos 2-3 desses.___
 - **Aplicação do CSS ao HTML**
   - Modelo de caixa ✓
   - Dimensionamento ✓
