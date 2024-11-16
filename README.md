@@ -5,7 +5,7 @@ Este projeto apresenta um portfólio construído com HTML5 e CSS3, explorando co
 ---
 
 ### HTML5
-___[imagens não demonstram tudo presente no codigo]___
+___[ imagens não demonstram tudo presente no codigo ]___
 
 #### Conceitos Utilizados/N Utilizados:
 - **Estrutura Básica**: inclui `<!DOCTYPE html>`, `<html>`, `<head>` e `<body>`, etc...
@@ -37,8 +37,9 @@ ___[imagens não demonstram tudo presente no codigo]___
 ### CSS3
 
 #### Conceitos Utilizados/Não Utilizados: 
- *Localizado:* ___em geral, todos os .css arquivos contem pelo menos 2-3 desses.___
+ *Localizado:* ___[ em geral, todos os .css arquivos contem pelo menos 2-3 desses. ]___
 - **Aplicação do CSS ao HTML**
+- *Localizado:* footer.css
   - Modelo de caixa ✓
   - Dimensionamento ✓
   - Preenchimento ✓
@@ -48,19 +49,23 @@ ___[imagens não demonstram tudo presente no codigo]___
   - Cores ✓ <br>
 ![ok](https://github.com/user-attachments/assets/99865e26-df42-484e-9118-eb67b56f24f9)
 - **Posicionando elementos com CSS**
+- *Localizado:* project.css
   - Float x
   - Flexbox ✓ <br>
 ![flex](https://github.com/user-attachments/assets/f89c88e2-a1fc-48ed-9381-da3a868db14e)
 - **Posicionando elementos do CSS3 (parte 2)**
+- *Localizado:* styles.css
   - Position ✓
   - Grid ✓ <br>
 ![grid](https://github.com/user-attachments/assets/11e17a2e-77a5-43ef-8aca-f61f0381a5cb)
 - **Responsividade com CSS**
+- *Localizado:* styles.css
   - Media queries  ✓
   - Breakpoints ✓
   - Projetando responsivamente ✓ <br>
 ![media](https://github.com/user-attachments/assets/f2738cb9-8745-4704-b696-9aae97d47db8)
 - **Avançando no CSS**
+- *Localizado:* dropdown.css | project.css
   - Transições ✓
   - Transformações ✓ <br>
   - Propriedades personalizadas ✓
