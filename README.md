@@ -14,7 +14,7 @@ ___[imagens não demonstram tudo presente no codigo]___
   - Estrutura ✓ <br>
 ![estrutura](https://github.com/user-attachments/assets/9f72f025-c7dd-486e-85b9-96da25d71f2a)
 - **Semântica no HTML**: inclui `<header>`, `<main>`, `<footer>`, `<ul>`, `<li>`, `<p>`, `<h1>` etc...
-- *Localizado:* index.html | index-english.html | matriz.html [tabelas]
+- *Localizado:* index.html | index-english.html | matriz.html
   - Elementos estruturais ✓
   - Elementos de conteúdo ✓
   - Elementos de texto ✓ <br>
@@ -36,7 +36,8 @@ ___[imagens não demonstram tudo presente no codigo]___
 
 ### CSS3
 
-#### Conceitos Utilizados/N Utilizados: ___em geral, todos os .css files contem pelo menos 2-3 desses.___
+#### Conceitos Utilizados/N Utilizados: 
+ *Localizado:* ___em geral, todos os .css arquivos contem pelo menos 2-3 desses.___
 - **Aplicação do CSS ao HTML**
   - Modelo de caixa ✓
   - Dimensionamento ✓
