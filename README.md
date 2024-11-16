@@ -70,7 +70,7 @@ ___[ imagens não demonstram tudo presente no codigo ]___
   - Media queries  ✓
   - Breakpoints ✓
   - Projetando responsivamente ✓ <br> <br>
-![media](https://github.com/user-attachments/assets/f2738cb9-8745-4704-b696-9aae97d47db8)4
+![media](https://github.com/user-attachments/assets/f2738cb9-8745-4704-b696-9aae97d47db8)
 ---
 - **Avançando no CSS**
 - *Localizado:* dropdown.css | project.css
