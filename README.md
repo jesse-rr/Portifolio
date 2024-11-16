@@ -13,16 +13,18 @@ ___[ imagens não demonstram tudo presente no codigo ]___
   - Elementos ✓
   - Estrutura ✓ <br> <br>
 ![estrutura](https://github.com/user-attachments/assets/9f72f025-c7dd-486e-85b9-96da25d71f2a)
---
+---
 - **Semântica no HTML**: inclui `<header>`, `<main>`, `<footer>`, `<ul>`, `<li>`, `<p>`, `<h1>` etc...
 - *Localizado:* index.html | index-english.html
   - Elementos estruturais ✓
   - Elementos de conteúdo ✓
   - Elementos de texto ✓ <br> <br>
 ![estrutura2](https://github.com/user-attachments/assets/6962e794-eb72-4a40-9907-e09a26363709)
+---
 - **Validar**: inclui `<html lang="pt">`, `<alt="Brasil Flag">`, etc... ✓
 - *Localizado:* index.html | index-english.html <br> <br>
 ![validation](https://github.com/user-attachments/assets/3e9a9013-0c7f-4289-aa6d-6da6996faf11)
+---
 - **Elementos HTML**: inclui `<table>`, `<thead>`, `<div>`, `<td>`, `&equiv`, `id & class`, `<a>`, `<img>`, etc... <br>
 - *Localizado:* matriz.html
   - Tabelas ✓
@@ -50,22 +52,26 @@ ___[ imagens não demonstram tudo presente no codigo ]___
   - Display ✓
   - Cores ✓ <br> <br>
 ![ok](https://github.com/user-attachments/assets/99865e26-df42-484e-9118-eb67b56f24f9)
+---
 - **Posicionando elementos com CSS**
 - *Localizado:* project.css
   - Float x
   - Flexbox ✓ <br> <br>
 ![flex](https://github.com/user-attachments/assets/f89c88e2-a1fc-48ed-9381-da3a868db14e)
+---
 - **Posicionando elementos do CSS3 (parte 2)**
 - *Localizado:* styles.css
   - Position ✓
   - Grid ✓ <br> <br>
 ![grid](https://github.com/user-attachments/assets/11e17a2e-77a5-43ef-8aca-f61f0381a5cb)
+---
 - **Responsividade com CSS**
 - *Localizado:* styles.css
   - Media queries  ✓
   - Breakpoints ✓
   - Projetando responsivamente ✓ <br> <br>
-![media](https://github.com/user-attachments/assets/f2738cb9-8745-4704-b696-9aae97d47db8)
+![media](https://github.com/user-attachments/assets/f2738cb9-8745-4704-b696-9aae97d47db8)4
+---
 - **Avançando no CSS**
 - *Localizado:* dropdown.css | project.css
   - Transições ✓
@@ -76,3 +82,4 @@ ___[ imagens não demonstram tudo presente no codigo ]___
   - Importação de fontes externas ✓ <br> <br>
 ![transition](https://github.com/user-attachments/assets/b90a71e7-66ef-4b9b-81f3-4338f26823bf)
 ![tranform](https://github.com/user-attachments/assets/3ecf7843-21d4-4e6a-87ce-0402280a9ded)
+---
